@@ -1,0 +1,1057 @@
+[
+  {
+    "name": "Drama",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 1534
+      },
+      {
+        "name": "1990s",
+        "value": 807
+      },
+      {
+        "name": "1950s",
+        "value": 493
+      },
+      {
+        "name": "1940s",
+        "value": 320
+      },
+      {
+        "name": "1980s",
+        "value": 844
+      },
+      {
+        "name": "1970s",
+        "value": 878
+      },
+      {
+        "name": "1930s",
+        "value": 371
+      },
+      {
+        "name": "1960s",
+        "value": 627
+      },
+      {
+        "name": "1920s",
+        "value": 260
+      },
+      {
+        "name": "2010s",
+        "value": 3746
+      },
+      {
+        "name": "1910s",
+        "value": 148
+      },
+      {
+        "name": "1900s",
+        "value": 17
+      },
+      {
+        "name": "2020s",
+        "value": 746
+      }
+    ]
+  },
+  {
+    "name": "Romance",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 433
+      },
+      {
+        "name": "1990s",
+        "value": 211
+      },
+      {
+        "name": "1950s",
+        "value": 121
+      },
+      {
+        "name": "1940s",
+        "value": 89
+      },
+      {
+        "name": "1980s",
+        "value": 195
+      },
+      {
+        "name": "1960s",
+        "value": 117
+      },
+      {
+        "name": "1930s",
+        "value": 160
+      },
+      {
+        "name": "1970s",
+        "value": 139
+      },
+      {
+        "name": "1920s",
+        "value": 68
+      },
+      {
+        "name": "2010s",
+        "value": 950
+      },
+      {
+        "name": "1910s",
+        "value": 24
+      },
+      {
+        "name": "1900s",
+        "value": 2
+      },
+      {
+        "name": "2020s",
+        "value": 197
+      }
+    ]
+  },
+  {
+    "name": "Science Fiction",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 154
+      },
+      {
+        "name": "1930s",
+        "value": 11
+      },
+      {
+        "name": "1970s",
+        "value": 63
+      },
+      {
+        "name": "1990s",
+        "value": 113
+      },
+      {
+        "name": "1950s",
+        "value": 20
+      },
+      {
+        "name": "1910s",
+        "value": 5
+      },
+      {
+        "name": "1920s",
+        "value": 6
+      },
+      {
+        "name": "1940s",
+        "value": 9
+      },
+      {
+        "name": "1960s",
+        "value": 47
+      },
+      {
+        "name": "1980s",
+        "value": 118
+      },
+      {
+        "name": "2010s",
+        "value": 401
+      },
+      {
+        "name": "1900s",
+        "value": 2
+      },
+      {
+        "name": "2020s",
+        "value": 90
+      }
+    ]
+  },
+  {
+    "name": "Adventure",
+    "children": [
+      {
+        "name": "1980s",
+        "value": 165
+      },
+      {
+        "name": "1930s",
+        "value": 54
+      },
+      {
+        "name": "2000s",
+        "value": 179
+      },
+      {
+        "name": "1990s",
+        "value": 108
+      },
+      {
+        "name": "1970s",
+        "value": 125
+      },
+      {
+        "name": "1960s",
+        "value": 96
+      },
+      {
+        "name": "1950s",
+        "value": 73
+      },
+      {
+        "name": "2010s",
+        "value": 331
+      },
+      {
+        "name": "1920s",
+        "value": 26
+      },
+      {
+        "name": "1940s",
+        "value": 35
+      },
+      {
+        "name": "1910s",
+        "value": 11
+      },
+      {
+        "name": "2020s",
+        "value": 45
+      }
+    ]
+  },
+  {
+    "name": "Animation",
+    "children": [
+      {
+        "name": "1980s",
+        "value": 154
+      },
+      {
+        "name": "2000s",
+        "value": 326
+      },
+      {
+        "name": "1970s",
+        "value": 77
+      },
+      {
+        "name": "1990s",
+        "value": 159
+      },
+      {
+        "name": "2010s",
+        "value": 797
+      },
+      {
+        "name": "1960s",
+        "value": 81
+      },
+      {
+        "name": "1930s",
+        "value": 93
+      },
+      {
+        "name": "1920s",
+        "value": 35
+      },
+      {
+        "name": "1940s",
+        "value": 101
+      },
+      {
+        "name": "1950s",
+        "value": 91
+      },
+      {
+        "name": "1910s",
+        "value": 16
+      },
+      {
+        "name": "1900s",
+        "value": 4
+      },
+      {
+        "name": "2020s",
+        "value": 255
+      }
+    ]
+  },
+  {
+    "name": "Fantasy",
+    "children": [
+      {
+        "name": "1980s",
+        "value": 89
+      },
+      {
+        "name": "1990s",
+        "value": 86
+      },
+      {
+        "name": "1970s",
+        "value": 63
+      },
+      {
+        "name": "1960s",
+        "value": 40
+      },
+      {
+        "name": "1910s",
+        "value": 10
+      },
+      {
+        "name": "1940s",
+        "value": 16
+      },
+      {
+        "name": "1930s",
+        "value": 15
+      },
+      {
+        "name": "2000s",
+        "value": 147
+      },
+      {
+        "name": "2010s",
+        "value": 340
+      },
+      {
+        "name": "1950s",
+        "value": 23
+      },
+      {
+        "name": "1920s",
+        "value": 6
+      },
+      {
+        "name": "1900s",
+        "value": 13
+      },
+      {
+        "name": "1890s",
+        "value": 2
+      },
+      {
+        "name": "2020s",
+        "value": 82
+      }
+    ]
+  },
+  {
+    "name": "Comedy",
+    "children": [
+      {
+        "name": "1990s",
+        "value": 511
+      },
+      {
+        "name": "1940s",
+        "value": 280
+      },
+      {
+        "name": "2000s",
+        "value": 1138
+      },
+      {
+        "name": "1950s",
+        "value": 286
+      },
+      {
+        "name": "1980s",
+        "value": 522
+      },
+      {
+        "name": "1970s",
+        "value": 469
+      },
+      {
+        "name": "1960s",
+        "value": 403
+      },
+      {
+        "name": "1930s",
+        "value": 369
+      },
+      {
+        "name": "1920s",
+        "value": 179
+      },
+      {
+        "name": "2010s",
+        "value": 2276
+      },
+      {
+        "name": "1910s",
+        "value": 109
+      },
+      {
+        "name": "1900s",
+        "value": 21
+      },
+      {
+        "name": "1890s",
+        "value": 6
+      },
+      {
+        "name": "2020s",
+        "value": 451
+      }
+    ]
+  },
+  {
+    "name": "Crime",
+    "children": [
+      {
+        "name": "1990s",
+        "value": 165
+      },
+      {
+        "name": "2000s",
+        "value": 244
+      },
+      {
+        "name": "1980s",
+        "value": 167
+      },
+      {
+        "name": "1970s",
+        "value": 178
+      },
+      {
+        "name": "1950s",
+        "value": 129
+      },
+      {
+        "name": "1960s",
+        "value": 134
+      },
+      {
+        "name": "1940s",
+        "value": 89
+      },
+      {
+        "name": "2010s",
+        "value": 481
+      },
+      {
+        "name": "1930s",
+        "value": 102
+      },
+      {
+        "name": "1920s",
+        "value": 47
+      },
+      {
+        "name": "1910s",
+        "value": 15
+      },
+      {
+        "name": "1900s",
+        "value": 3
+      },
+      {
+        "name": "2020s",
+        "value": 95
+      }
+    ]
+  },
+  {
+    "name": "Action",
+    "children": [
+      {
+        "name": "1990s",
+        "value": 290
+      },
+      {
+        "name": "2000s",
+        "value": 394
+      },
+      {
+        "name": "1980s",
+        "value": 227
+      },
+      {
+        "name": "1930s",
+        "value": 51
+      },
+      {
+        "name": "1960s",
+        "value": 108
+      },
+      {
+        "name": "1970s",
+        "value": 183
+      },
+      {
+        "name": "1940s",
+        "value": 34
+      },
+      {
+        "name": "2010s",
+        "value": 696
+      },
+      {
+        "name": "1950s",
+        "value": 55
+      },
+      {
+        "name": "1910s",
+        "value": 7
+      },
+      {
+        "name": "1920s",
+        "value": 28
+      },
+      {
+        "name": "1900s",
+        "value": 1
+      },
+      {
+        "name": "2020s",
+        "value": 142
+      }
+    ]
+  },
+  {
+    "name": "Thriller",
+    "children": [
+      {
+        "name": "1990s",
+        "value": 212
+      },
+      {
+        "name": "2000s",
+        "value": 404
+      },
+      {
+        "name": "1940s",
+        "value": 39
+      },
+      {
+        "name": "1960s",
+        "value": 70
+      },
+      {
+        "name": "1980s",
+        "value": 145
+      },
+      {
+        "name": "1970s",
+        "value": 118
+      },
+      {
+        "name": "1950s",
+        "value": 46
+      },
+      {
+        "name": "2010s",
+        "value": 944
+      },
+      {
+        "name": "1930s",
+        "value": 21
+      },
+      {
+        "name": "1920s",
+        "value": 4
+      },
+      {
+        "name": "1910s",
+        "value": 5
+      },
+      {
+        "name": "2020s",
+        "value": 247
+      }
+    ]
+  },
+  {
+    "name": "Mystery",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 147
+      },
+      {
+        "name": "1940s",
+        "value": 54
+      },
+      {
+        "name": "1990s",
+        "value": 59
+      },
+      {
+        "name": "1970s",
+        "value": 59
+      },
+      {
+        "name": "1980s",
+        "value": 79
+      },
+      {
+        "name": "1960s",
+        "value": 35
+      },
+      {
+        "name": "1930s",
+        "value": 50
+      },
+      {
+        "name": "1950s",
+        "value": 36
+      },
+      {
+        "name": "1920s",
+        "value": 26
+      },
+      {
+        "name": "2010s",
+        "value": 343
+      },
+      {
+        "name": "1910s",
+        "value": 7
+      },
+      {
+        "name": "2020s",
+        "value": 76
+      }
+    ]
+  },
+  {
+    "name": "War",
+    "children": [
+      {
+        "name": "1940s",
+        "value": 69
+      },
+      {
+        "name": "2000s",
+        "value": 56
+      },
+      {
+        "name": "1970s",
+        "value": 56
+      },
+      {
+        "name": "1960s",
+        "value": 56
+      },
+      {
+        "name": "1990s",
+        "value": 31
+      },
+      {
+        "name": "1980s",
+        "value": 51
+      },
+      {
+        "name": "1950s",
+        "value": 45
+      },
+      {
+        "name": "1930s",
+        "value": 19
+      },
+      {
+        "name": "2010s",
+        "value": 108
+      },
+      {
+        "name": "1920s",
+        "value": 9
+      },
+      {
+        "name": "1910s",
+        "value": 11
+      },
+      {
+        "name": "1900s",
+        "value": 1
+      },
+      {
+        "name": "2020s",
+        "value": 21
+      }
+    ]
+  },
+  {
+    "name": "History",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 80
+      },
+      {
+        "name": "1960s",
+        "value": 41
+      },
+      {
+        "name": "1970s",
+        "value": 53
+      },
+      {
+        "name": "1990s",
+        "value": 47
+      },
+      {
+        "name": "1980s",
+        "value": 57
+      },
+      {
+        "name": "1950s",
+        "value": 35
+      },
+      {
+        "name": "1940s",
+        "value": 23
+      },
+      {
+        "name": "1930s",
+        "value": 20
+      },
+      {
+        "name": "2010s",
+        "value": 261
+      },
+      {
+        "name": "1910s",
+        "value": 10
+      },
+      {
+        "name": "1920s",
+        "value": 15
+      },
+      {
+        "name": "1900s",
+        "value": 2
+      },
+      {
+        "name": "2020s",
+        "value": 60
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "children": [
+      {
+        "name": "1950s",
+        "value": 75
+      },
+      {
+        "name": "2000s",
+        "value": 504
+      },
+      {
+        "name": "1930s",
+        "value": 97
+      },
+      {
+        "name": "1970s",
+        "value": 94
+      },
+      {
+        "name": "1990s",
+        "value": 114
+      },
+      {
+        "name": "1980s",
+        "value": 90
+      },
+      {
+        "name": "1940s",
+        "value": 79
+      },
+      {
+        "name": "1960s",
+        "value": 87
+      },
+      {
+        "name": "2010s",
+        "value": 860
+      },
+      {
+        "name": "1920s",
+        "value": 8
+      },
+      {
+        "name": "2020s",
+        "value": 173
+      }
+    ]
+  },
+  {
+    "name": "Horror",
+    "children": [
+      {
+        "name": "1930s",
+        "value": 14
+      },
+      {
+        "name": "2000s",
+        "value": 349
+      },
+      {
+        "name": "1960s",
+        "value": 53
+      },
+      {
+        "name": "1980s",
+        "value": 132
+      },
+      {
+        "name": "1910s",
+        "value": 6
+      },
+      {
+        "name": "1920s",
+        "value": 11
+      },
+      {
+        "name": "1970s",
+        "value": 98
+      },
+      {
+        "name": "1940s",
+        "value": 18
+      },
+      {
+        "name": "1990s",
+        "value": 95
+      },
+      {
+        "name": "1950s",
+        "value": 18
+      },
+      {
+        "name": "2010s",
+        "value": 814
+      },
+      {
+        "name": "1890s",
+        "value": 1
+      },
+      {
+        "name": "2020s",
+        "value": 238
+      }
+    ]
+  },
+  {
+    "name": "Western",
+    "children": [
+      {
+        "name": "1950s",
+        "value": 77
+      },
+      {
+        "name": "1990s",
+        "value": 14
+      },
+      {
+        "name": "1940s",
+        "value": 81
+      },
+      {
+        "name": "1930s",
+        "value": 74
+      },
+      {
+        "name": "1960s",
+        "value": 68
+      },
+      {
+        "name": "1970s",
+        "value": 39
+      },
+      {
+        "name": "1980s",
+        "value": 17
+      },
+      {
+        "name": "2000s",
+        "value": 19
+      },
+      {
+        "name": "2010s",
+        "value": 35
+      },
+      {
+        "name": "1910s",
+        "value": 25
+      },
+      {
+        "name": "1920s",
+        "value": 34
+      },
+      {
+        "name": "2020s",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "name": "Family",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 269
+      },
+      {
+        "name": "1990s",
+        "value": 111
+      },
+      {
+        "name": "1980s",
+        "value": 136
+      },
+      {
+        "name": "1970s",
+        "value": 99
+      },
+      {
+        "name": "1950s",
+        "value": 52
+      },
+      {
+        "name": "2010s",
+        "value": 472
+      },
+      {
+        "name": "1960s",
+        "value": 60
+      },
+      {
+        "name": "1930s",
+        "value": 21
+      },
+      {
+        "name": "1940s",
+        "value": 26
+      },
+      {
+        "name": "1920s",
+        "value": 5
+      },
+      {
+        "name": "1890s",
+        "value": 1
+      },
+      {
+        "name": "1910s",
+        "value": 1
+      },
+      {
+        "name": "2020s",
+        "value": 64
+      }
+    ]
+  },
+  {
+    "name": "Documentary",
+    "children": [
+      {
+        "name": "2000s",
+        "value": 1004
+      },
+      {
+        "name": "1890s",
+        "value": 30
+      },
+      {
+        "name": "1990s",
+        "value": 238
+      },
+      {
+        "name": "1980s",
+        "value": 160
+      },
+      {
+        "name": "1970s",
+        "value": 144
+      },
+      {
+        "name": "1960s",
+        "value": 91
+      },
+      {
+        "name": "2010s",
+        "value": 3074
+      },
+      {
+        "name": "1930s",
+        "value": 24
+      },
+      {
+        "name": "1950s",
+        "value": 48
+      },
+      {
+        "name": "1940s",
+        "value": 82
+      },
+      {
+        "name": "1920s",
+        "value": 20
+      },
+      {
+        "name": "1900s",
+        "value": 12
+      },
+      {
+        "name": "1910s",
+        "value": 9
+      },
+      {
+        "name": "2020s",
+        "value": 845
+      },
+      {
+        "name": "1880s",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "TV Movie",
+    "children": [
+      {
+        "name": "1970s",
+        "value": 139
+      },
+      {
+        "name": "1980s",
+        "value": 170
+      },
+      {
+        "name": "1990s",
+        "value": 133
+      },
+      {
+        "name": "2000s",
+        "value": 171
+      },
+      {
+        "name": "1960s",
+        "value": 32
+      },
+      {
+        "name": "2010s",
+        "value": 259
+      },
+      {
+        "name": "1950s",
+        "value": 8
+      },
+      {
+        "name": "2020s",
+        "value": 61
+      }
+    ]
+  }
+]

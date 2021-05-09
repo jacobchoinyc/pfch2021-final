@@ -1,0 +1,182 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Movie</title>
+
+<script src="//cdn.amcharts.com/lib/4/core.js"></script>
+<script src="//cdn.amcharts.com/lib/4/charts.js"></script>
+<script src="//cdn.amcharts.com/lib/4/themes/animated.js"></script>
+<script src="//cdn.amcharts.com/lib/4/plugins/forceDirected.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+
+    #chartdiv {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        overflow: scroll;
+        z-index: 1;
+    }
+    .btn_cont {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        padding: 20px;
+        z-index: 999999;
+    }
+    button {
+        width: 75px;
+        padding: 5px 15px;
+        background-color: #000000;
+        color: #ffffff;
+        margin: 3px;
+        border: 1px #000000 solid;
+        z-index: 9;
+    }
+    button.selected {
+        background-color: #ffffff;
+        border: 1px #000000 solid;
+        color: #000000;
+    }
+    button:hover {
+        background-color: #ffffff;
+        border: 1px #000000 solid;
+        color: #000000;
+    }
+    #month {
+        position: fixed;
+        font-size: 30px;
+        top: 20px;
+        left: 20px;
+        z-index: 999999;
+    }
+    #data {
+        text-transform: capitalize;
+        font-weight: 900;
+    }
+    circle {
+        animation: all ease 1s;
+    }
+    #toggle {
+        position: fixed;
+        font-size: 30px;
+        top: 70px;
+        left: 20px;
+        z-index: 999999;
+    }
+    #toggle > button {
+        width: 100px;
+        padding: 10px 15px;
+    }
+</style>
+</head>
+
+<body>
+    <div id="month">Month: <span id="data">All the 12 months</span></div>
+    <div id="toggle">
+        <button id="exp" onclick="run(this, 'none', 'none', 'exp')">Expend</button>
+        <button id="col" class="selected" onclick="run(this, 'none', 'none', 'col')">Collapse</button>
+    </div>
+    <div class="btn_cont">
+        <div style="font-weight: 900; margin-bottom: 5px;">Filter</div>
+        <button id="all" class="selected" onclick="run(this, 'all', 'All the 12 months')">All</button>
+        <button id="jan" onclick="run(this, 'jan', 'January', 'none')">Jan</button>
+        <button id="feb" onclick="run(this, 'feb', 'February', 'none')">Feb</button>
+        <button id="mar" onclick="run(this, 'mar', 'March', 'none')">Mar</button>
+        <button id="apr" onclick="run(this, 'apr', 'April', 'none')">Apr</button>
+        <button id="may" onclick="run(this, 'may', 'May', 'none')">May</button>
+        <button id="jun" onclick="run(this, 'jun', 'June', 'none')">Jun</button>
+        <button id="jul" onclick="run(this, 'jul', 'July', 'none')">Jul</button>
+        <button id="aug" onclick="run(this, 'aug', 'August', 'none')">Aug</button>
+        <button id="sep" onclick="run(this, 'sep', 'September', 'none')">Sep</button>
+        <button id="oct" onclick="run(this, 'oct', 'October', 'none')">Oct</button>
+        <button id="nov" onclick="run(this, 'nov', 'November', 'none')">Nov</button>
+        <button id="dec" onclick="run(this, 'dec', 'December', 'none')">Dec</button>
+    </div>
+    
+<div id="chartdiv"></div>
+</body>
+
+<script>
+function run(e, month, text, option) {
+    /**
+    * ---------------------------------------
+    * This demo was created using amCharts 4.
+    *
+    * For more information visit:
+    * https://www.amcharts.com/
+    *
+    * Documentation is available at:
+    * https://www.amcharts.com/docs/v4/
+    * ---------------------------------------
+    */
+    if (month == 'none') {
+        text = document.getElementById('data').innerHTML;
+        month = text.slice(0, 3).toLowerCase();
+        $('#toggle button').toggleClass('selected');
+    }
+
+    am4core.useTheme(am4themes_animated);
+
+    // Create chart
+    var chart = am4core.create("chartdiv", am4plugins_forceDirected.ForceDirectedTree);
+
+    // Create series
+    var series = chart.series.push(new am4plugins_forceDirected.ForceDirectedSeries())
+
+
+    series.dataSource.url = month + ".json"; 
+    // Set up data fields
+    series.dataFields.value = "value";
+    series.dataFields.name = "name";
+    series.dataFields.children = "children";
+    series.dataFields.collapsed = "on";
+    series.links.template.disabled = true;
+    if (option == 'exp') {
+        series.maxLevels = 2;
+
+    } else {
+        series.maxLevels = 1;
+    }
+    // Add labels
+    series.nodes.template.label.text = "{name}";
+    series.fontSize = 10;
+    series.minRadius = 30;
+    series.maxRadius = 150;
+
+    series.centerStrength = 0.5;
+    series.manyBodyStrength = -5;
+    series.links.template.distance = 1;
+    series.links.template.strength = 1;
+
+    document.getElementById('data').innerHTML = text;
+
+    if (e != 'default') {
+        $('btn_cont > button').removeClass('selected');
+        $(e).addClass('selected');
+    }
+
+    if (option == 'none') {
+        
+        $('.btn_cont > button').removeClass('selected');
+        $('#' + month).addClass('selected');
+    }
+    
+}
+
+run('default', 'all', 'All the 12 months', 'col');
+
+</script>
+</html>
+

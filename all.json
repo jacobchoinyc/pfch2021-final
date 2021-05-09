@@ -1,0 +1,1061 @@
+[
+  {
+    "name": "Drama",
+    "children": [
+      {
+        "name": 1980,
+        "value": 2351
+      },
+      {
+        "name": "2000",
+        "value": 9544
+      },
+      {
+        "name": "1990",
+        "value": 3510
+      },
+      {
+        "name": "1940",
+        "value": 1087
+      },
+      {
+        "name": "1920",
+        "value": 252
+      },
+      {
+        "name": "1970",
+        "value": 2152
+      },
+      {
+        "name": "1950",
+        "value": 1411
+      },
+      {
+        "name": "1930",
+        "value": 684
+      },
+      {
+        "name": "1960",
+        "value": 1542
+      },
+      {
+        "name": "1910",
+        "value": 64
+      },
+      {
+        "name": "2010",
+        "value": 2944
+      },
+      {
+        "name": "1890",
+        "value": 3
+      },
+      {
+        "name": "1900",
+        "value": 8
+      },
+      {
+        "name": "2020",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Crime",
+    "children": [
+      {
+        "name": 1980,
+        "value": 631
+      },
+      {
+        "name": "1990",
+        "value": 850
+      },
+      {
+        "name": "2000",
+        "value": 1663
+      },
+      {
+        "name": "1950",
+        "value": 495
+      },
+      {
+        "name": "1970",
+        "value": 690
+      },
+      {
+        "name": "2010",
+        "value": 497
+      },
+      {
+        "name": "1930",
+        "value": 236
+      },
+      {
+        "name": "1940",
+        "value": 423
+      },
+      {
+        "name": "1920",
+        "value": 25
+      },
+      {
+        "name": "1960",
+        "value": 439
+      },
+      {
+        "name": "1900",
+        "value": 2
+      },
+      {
+        "name": "1910",
+        "value": 9
+      },
+      {
+        "name": "2020",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Comedy",
+    "children": [
+      {
+        "name": 1980,
+        "value": 2148
+      },
+      {
+        "name": "1990",
+        "value": 2880
+      },
+      {
+        "name": "2000",
+        "value": 7213
+      },
+      {
+        "name": "1960",
+        "value": 1249
+      },
+      {
+        "name": "1930",
+        "value": 635
+      },
+      {
+        "name": "1940",
+        "value": 790
+      },
+      {
+        "name": "1950",
+        "value": 910
+      },
+      {
+        "name": "1970",
+        "value": 1487
+      },
+      {
+        "name": "1920",
+        "value": 193
+      },
+      {
+        "name": "1910",
+        "value": 166
+      },
+      {
+        "name": "1900",
+        "value": 16
+      },
+      {
+        "name": "2010",
+        "value": 2230
+      },
+      {
+        "name": "1890",
+        "value": 4
+      },
+      {
+        "name": "2020",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Action",
+    "children": [
+      {
+        "name": 1990,
+        "value": 1556
+      },
+      {
+        "name": "1970",
+        "value": 1005
+      },
+      {
+        "name": "2000",
+        "value": 3221
+      },
+      {
+        "name": "1980",
+        "value": 1190
+      },
+      {
+        "name": "2010",
+        "value": 1115
+      },
+      {
+        "name": "1960",
+        "value": 434
+      },
+      {
+        "name": "1950",
+        "value": 286
+      },
+      {
+        "name": "1930",
+        "value": 117
+      },
+      {
+        "name": "1920",
+        "value": 30
+      },
+      {
+        "name": "1940",
+        "value": 188
+      },
+      {
+        "name": "1900",
+        "value": 6
+      },
+      {
+        "name": "1910",
+        "value": 9
+      },
+      {
+        "name": "1890",
+        "value": 1
+      },
+      {
+        "name": "2020",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Thriller",
+    "children": [
+      {
+        "name": 1990,
+        "value": 1436
+      },
+      {
+        "name": "2000",
+        "value": 3633
+      },
+      {
+        "name": "1980",
+        "value": 836
+      },
+      {
+        "name": "1950",
+        "value": 333
+      },
+      {
+        "name": "2010",
+        "value": 1172
+      },
+      {
+        "name": "1940",
+        "value": 312
+      },
+      {
+        "name": "1920",
+        "value": 20
+      },
+      {
+        "name": "1970",
+        "value": 806
+      },
+      {
+        "name": "1930",
+        "value": 128
+      },
+      {
+        "name": "1960",
+        "value": 385
+      },
+      {
+        "name": "1900",
+        "value": 2
+      },
+      {
+        "name": "2020",
+        "value": 2
+      },
+      {
+        "name": "1910",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Documentary",
+    "children": [
+      {
+        "name": 2000,
+        "value": 3319
+      },
+      {
+        "name": "1960",
+        "value": 106
+      },
+      {
+        "name": "1930",
+        "value": 19
+      },
+      {
+        "name": "1990",
+        "value": 602
+      },
+      {
+        "name": "1980",
+        "value": 268
+      },
+      {
+        "name": "1970",
+        "value": 213
+      },
+      {
+        "name": "1890",
+        "value": 8
+      },
+      {
+        "name": "1920",
+        "value": 14
+      },
+      {
+        "name": "1950",
+        "value": 38
+      },
+      {
+        "name": "2010",
+        "value": 1171
+      },
+      {
+        "name": "1880",
+        "value": 4
+      },
+      {
+        "name": "1940",
+        "value": 37
+      },
+      {
+        "name": "1900",
+        "value": 1
+      },
+      {
+        "name": "1910",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "name": "Adventure",
+    "children": [
+      {
+        "name": 1970,
+        "value": 427
+      },
+      {
+        "name": "1990",
+        "value": 638
+      },
+      {
+        "name": "2000",
+        "value": 1369
+      },
+      {
+        "name": "1960",
+        "value": 424
+      },
+      {
+        "name": "1980",
+        "value": 546
+      },
+      {
+        "name": "1950",
+        "value": 275
+      },
+      {
+        "name": "1930",
+        "value": 115
+      },
+      {
+        "name": "1920",
+        "value": 37
+      },
+      {
+        "name": "1900",
+        "value": 5
+      },
+      {
+        "name": "2010",
+        "value": 434
+      },
+      {
+        "name": "1940",
+        "value": 182
+      },
+      {
+        "name": "1910",
+        "value": 16
+      },
+      {
+        "name": "2020",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Science Fiction",
+    "children": [
+      {
+        "name": 1970,
+        "value": 294
+      },
+      {
+        "name": "1990",
+        "value": 704
+      },
+      {
+        "name": "1920",
+        "value": 12
+      },
+      {
+        "name": "2000",
+        "value": 1214
+      },
+      {
+        "name": "1960",
+        "value": 248
+      },
+      {
+        "name": "1980",
+        "value": 576
+      },
+      {
+        "name": "1950",
+        "value": 184
+      },
+      {
+        "name": "1930",
+        "value": 36
+      },
+      {
+        "name": "1900",
+        "value": 3
+      },
+      {
+        "name": "2010",
+        "value": 398
+      },
+      {
+        "name": "1940",
+        "value": 46
+      },
+      {
+        "name": "1910",
+        "value": 11
+      },
+      {
+        "name": "2020",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Animation",
+    "children": [
+      {
+        "name": 2000,
+        "value": 1270
+      },
+      {
+        "name": "1990",
+        "value": 589
+      },
+      {
+        "name": "1980",
+        "value": 397
+      },
+      {
+        "name": "1970",
+        "value": 215
+      },
+      {
+        "name": "1930",
+        "value": 145
+      },
+      {
+        "name": "1940",
+        "value": 331
+      },
+      {
+        "name": "1960",
+        "value": 137
+      },
+      {
+        "name": "2010",
+        "value": 376
+      },
+      {
+        "name": "1950",
+        "value": 303
+      },
+      {
+        "name": "1920",
+        "value": 49
+      },
+      {
+        "name": "1890",
+        "value": 3
+      },
+      {
+        "name": "1900",
+        "value": 5
+      },
+      {
+        "name": "1910",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "name": "Family",
+    "children": [
+      {
+        "name": 2000,
+        "value": 1762
+      },
+      {
+        "name": "1980",
+        "value": 485
+      },
+      {
+        "name": "1950",
+        "value": 237
+      },
+      {
+        "name": "1970",
+        "value": 357
+      },
+      {
+        "name": "1990",
+        "value": 769
+      },
+      {
+        "name": "1930",
+        "value": 73
+      },
+      {
+        "name": "1960",
+        "value": 266
+      },
+      {
+        "name": "1940",
+        "value": 136
+      },
+      {
+        "name": "2010",
+        "value": 552
+      },
+      {
+        "name": "1920",
+        "value": 16
+      },
+      {
+        "name": "1900",
+        "value": 2
+      },
+      {
+        "name": "1910",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "name": "Romance",
+    "children": [
+      {
+        "name": 1990,
+        "value": 1302
+      },
+      {
+        "name": "2000",
+        "value": 3381
+      },
+      {
+        "name": "1980",
+        "value": 750
+      },
+      {
+        "name": "1960",
+        "value": 484
+      },
+      {
+        "name": "1930",
+        "value": 421
+      },
+      {
+        "name": "1970",
+        "value": 470
+      },
+      {
+        "name": "1950",
+        "value": 514
+      },
+      {
+        "name": "1940",
+        "value": 519
+      },
+      {
+        "name": "1920",
+        "value": 116
+      },
+      {
+        "name": "1910",
+        "value": 18
+      },
+      {
+        "name": "2010",
+        "value": 1043
+      },
+      {
+        "name": "1900",
+        "value": 1
+      },
+      {
+        "name": "1890",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Mystery",
+    "children": [
+      {
+        "name": 1940,
+        "value": 310
+      },
+      {
+        "name": "2000",
+        "value": 1034
+      },
+      {
+        "name": "1960",
+        "value": 191
+      },
+      {
+        "name": "1990",
+        "value": 343
+      },
+      {
+        "name": "1950",
+        "value": 143
+      },
+      {
+        "name": "1970",
+        "value": 296
+      },
+      {
+        "name": "1980",
+        "value": 270
+      },
+      {
+        "name": "1930",
+        "value": 153
+      },
+      {
+        "name": "1920",
+        "value": 16
+      },
+      {
+        "name": "2010",
+        "value": 307
+      },
+      {
+        "name": "1910",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "name": "Horror",
+    "children": [
+      {
+        "name": 2000,
+        "value": 2511
+      },
+      {
+        "name": "1930",
+        "value": 64
+      },
+      {
+        "name": "1920",
+        "value": 41
+      },
+      {
+        "name": "1990",
+        "value": 832
+      },
+      {
+        "name": "1970",
+        "value": 757
+      },
+      {
+        "name": "1980",
+        "value": 1066
+      },
+      {
+        "name": "1960",
+        "value": 357
+      },
+      {
+        "name": "1950",
+        "value": 165
+      },
+      {
+        "name": "1910",
+        "value": 17
+      },
+      {
+        "name": "1900",
+        "value": 5
+      },
+      {
+        "name": "1940",
+        "value": 107
+      },
+      {
+        "name": "2010",
+        "value": 719
+      },
+      {
+        "name": "2020",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Fantasy",
+    "children": [
+      {
+        "name": 1990,
+        "value": 525
+      },
+      {
+        "name": "2000",
+        "value": 1002
+      },
+      {
+        "name": "1980",
+        "value": 445
+      },
+      {
+        "name": "1970",
+        "value": 239
+      },
+      {
+        "name": "1930",
+        "value": 37
+      },
+      {
+        "name": "1950",
+        "value": 127
+      },
+      {
+        "name": "1960",
+        "value": 179
+      },
+      {
+        "name": "1920",
+        "value": 32
+      },
+      {
+        "name": "1940",
+        "value": 93
+      },
+      {
+        "name": "1900",
+        "value": 22
+      },
+      {
+        "name": "2010",
+        "value": 330
+      },
+      {
+        "name": "1910",
+        "value": 17
+      },
+      {
+        "name": "1890",
+        "value": 2
+      },
+      {
+        "name": "2020",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "War",
+    "children": [
+      {
+        "name": 2000,
+        "value": 370
+      },
+      {
+        "name": "1970",
+        "value": 163
+      },
+      {
+        "name": "1930",
+        "value": 58
+      },
+      {
+        "name": "1990",
+        "value": 151
+      },
+      {
+        "name": "1940",
+        "value": 233
+      },
+      {
+        "name": "1980",
+        "value": 167
+      },
+      {
+        "name": "1960",
+        "value": 214
+      },
+      {
+        "name": "1910",
+        "value": 5
+      },
+      {
+        "name": "1950",
+        "value": 180
+      },
+      {
+        "name": "1920",
+        "value": 11
+      },
+      {
+        "name": "2010",
+        "value": 125
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "children": [
+      {
+        "name": 2000,
+        "value": 2079
+      },
+      {
+        "name": "1980",
+        "value": 357
+      },
+      {
+        "name": "1970",
+        "value": 191
+      },
+      {
+        "name": "1960",
+        "value": 194
+      },
+      {
+        "name": "1950",
+        "value": 172
+      },
+      {
+        "name": "1990",
+        "value": 513
+      },
+      {
+        "name": "1920",
+        "value": 9
+      },
+      {
+        "name": "1930",
+        "value": 147
+      },
+      {
+        "name": "1940",
+        "value": 180
+      },
+      {
+        "name": "2010",
+        "value": 554
+      },
+      {
+        "name": "2020",
+        "value": 2
+      },
+      {
+        "name": "1900",
+        "value": 1
+      },
+      {
+        "name": "1910",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "History",
+    "children": [
+      {
+        "name": 1990,
+        "value": 246
+      },
+      {
+        "name": "2000",
+        "value": 597
+      },
+      {
+        "name": "1980",
+        "value": 142
+      },
+      {
+        "name": "1920",
+        "value": 19
+      },
+      {
+        "name": "1940",
+        "value": 61
+      },
+      {
+        "name": "1950",
+        "value": 116
+      },
+      {
+        "name": "1910",
+        "value": 15
+      },
+      {
+        "name": "1970",
+        "value": 162
+      },
+      {
+        "name": "1930",
+        "value": 64
+      },
+      {
+        "name": "1960",
+        "value": 151
+      },
+      {
+        "name": "2010",
+        "value": 207
+      },
+      {
+        "name": "1880",
+        "value": 1
+      },
+      {
+        "name": "1900",
+        "value": 3
+      },
+      {
+        "name": "1890",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Western",
+    "children": [
+      {
+        "name": 1990,
+        "value": 80
+      },
+      {
+        "name": "1950",
+        "value": 229
+      },
+      {
+        "name": "1960",
+        "value": 232
+      },
+      {
+        "name": "1970",
+        "value": 204
+      },
+      {
+        "name": "1940",
+        "value": 184
+      },
+      {
+        "name": "1930",
+        "value": 126
+      },
+      {
+        "name": "2000",
+        "value": 124
+      },
+      {
+        "name": "1900",
+        "value": 1
+      },
+      {
+        "name": "1980",
+        "value": 56
+      },
+      {
+        "name": "1920",
+        "value": 18
+      },
+      {
+        "name": "2010",
+        "value": 44
+      },
+      {
+        "name": "1910",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "name": "TV Movie",
+    "children": [
+      {
+        "name": 1980,
+        "value": 272
+      },
+      {
+        "name": "1970",
+        "value": 212
+      },
+      {
+        "name": "2000",
+        "value": 715
+      },
+      {
+        "name": "1990",
+        "value": 372
+      },
+      {
+        "name": "1960",
+        "value": 34
+      },
+      {
+        "name": "2010",
+        "value": 187
+      },
+      {
+        "name": "1950",
+        "value": 6
+      }
+    ]
+  }
+]
