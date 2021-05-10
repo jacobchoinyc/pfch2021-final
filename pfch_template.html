@@ -57,7 +57,7 @@
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner">
                     <div class="item active">
-                      <img src="http://jacobchoinyc.com/664/data_result.png" alt="" title="Cover" />
+                      <img src="http://jacobchoinyc.com/664/data_result.jpg" alt="" title="Cover" />
                     </div><!-- end item -->
                     </div>
                   <!-- Controls -->
@@ -65,7 +65,7 @@
 
                   </a>
                 </div><!-- end carousel -->
-                <h1>Correlations of movies between genres and release dates</h1>
+                <h1>Correlations between movie genres and release dates</h1>
               <p class="lead">By: <a href="mailto:schoi918@pratt.edu">Jacob Choi</a></p>
               </div><!-- end page-header -->
               <div class="row">
@@ -77,10 +77,18 @@
                 </div><!-- end col -->
                 <div class="col-md-8">
                   <div class="post-content">
-                    In the movie industry, I assume there is a strategy of launching date and people prefer some of the genres by the certain season. I would like to investigate the movie data to see if there are defining correlations between genres and release dates to assume the launching strategy in the production industry through TMDB API. https://developers.themoviedb.org/3/movies/get-movie-details
-                    
+                    In the movie industry, I assume that there is a strategy of launching date and also people prefer some of the genres by the certain season. I would like to investigate the movie data to see if there are defining correlations between genres and release dates to assume the launching strategy in the production industry through TMDB API. https://developers.themoviedb.org/3/movies/get-movie-details
+                    <br><br>
+                    [What I did & File info]
+                    - Get the genres and release date of all movies through TMDB API. (tmdb.py)
+                    - Create a JSON file with the data (movie_list_final.json)
+                    - Find genres from the movie (sort_all.py, sort_q.py, sort.py)
+                    - Create and add the sorted data into a list by months (sort.py)
+                    - Create JSON files of each month, quarter, and year (all.json, q1.json - q4.json, jan.json - dec.json)
+                    - Create an HTML file to visualize data using existing amCharts 4 API (index.html)
+                    - Tweak the HTML file and add more filtering functions
+                    <br><br>
                     After the project, I could see Drama was the genre that was launched in all the 12 months, and Documentary and Comedy are the next most launched genres. By the month, it shows slightly different results. The project was really interesting to see the changes from my hypothesis of it.
-
                   </div><!-- end col -->
                 </div><!-- end row -->
               </div><!-- end post-content -->
