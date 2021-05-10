@@ -30,5 +30,5 @@ for movie_id in range(0, 850000):
     movie_list.append(movie)
     print(objects['id'])
 
-with open('movie_list9.json', 'w') as outfile:
+with open('movie_list_final.json', 'w') as outfile:
     json.dump(movie_list,outfile,indent=2)
